@@ -1,0 +1,11 @@
+pandas
+pathlib
+airflow
+logging
+sklearn
+boto3
+joblib
+numpy
+scikit-learn
+python-dotenv
+pyarrow
