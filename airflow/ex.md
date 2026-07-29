@@ -303,9 +303,7 @@ docker compose down -v
 MIT License
 
 ## 📧 Contact
-Your Name - email@example.com
-Project: https://github.com/yourusername/fraud-detection-airflow
-
+Your Name -bassemnaser124@gmail.com
 ---
 
 **⭐ Star this repo if you find it useful! ⭐**
